@@ -1,0 +1,24 @@
+{
+  "name": "tabu",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fontsource/roboto": "^4.1.0",
+    "@theme-ui/presets": "^0.3.0",
+    "framer-motion": "^2.9.4",
+    "next": "10.0.0",
+    "next-pwa": "^3.1.5",
+    "prop-types": "^15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-infinite-scroll-component": "^5.1.0",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5",
+    "styled-components": "^5.2.1"
+  }
+}

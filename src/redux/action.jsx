@@ -1,0 +1,8 @@
+const SET_FEED = 'SET_FEED'
+
+const SET_MESSAGES_HISTORY = 'SET_MESSAGES_HISTORY'
+
+export { 
+    SET_FEED,
+    SET_MESSAGES_HISTORY 
+}

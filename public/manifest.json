@@ -1,0 +1,16 @@
+{
+    "name": "Tabu - Kesehatanmu Masa Depanmu",
+    "short_name": "Tabu",
+    "theme_color": "#e91e63",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "/assets/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
